@@ -5,7 +5,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 from random import *
-from Secret_shit import password as pw, acc
+
 
 
 class NetBotface:
